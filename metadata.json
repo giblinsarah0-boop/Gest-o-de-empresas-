@@ -1,0 +1,7 @@
+{
+  "name": "Nazaelgiblin - Gestão de Estoque",
+  "description": "Sistema completo de gestão de produtos, vendas e estoque com autenticação, relatórios avançados e sugestão de preços baseada em IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
